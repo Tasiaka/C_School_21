@@ -1,22 +1,8 @@
 # s21_decimal 
 
-> При старте работы над проектом просим тебя постараться хронометрировать время работы над проектом.
-> По завершении работы над проектом, пожалуйста, ответь на два вопроса [в этом опросе](https://forms.gle/PFAxFfM4GJuQU1x59).
+
 
 Implementation of your own s21_decimal.h library.
-
-The russian version of the task can be found in the repository.
-
-
-## Contents
-
-1. [Chapter I](#chapter-i) \
-   1.1. [Introduction](#introduction)
-2. [Chapter II](#chapter-ii) \
-   2.1. [Information](#information)
-3. [Chapter III](#chapter-iii) \
-   3.1. [Part 1](#part-1-implementation-of-the-decimalh-library-functions)
-
 
 ## Chapter I
 
@@ -181,4 +167,3 @@ The functions of the decimal.h library described [above](#information) must be i
 - Trailing zeros can be as preserved as deleted (except for the `s21_truncate` function).
 - The defined type must support numbers from -79,228,162,514,264,337,593,543,950,335 to +79,228,162,514,264,337,593,543,950,335.
 
-💡[Tap here](https://forms.yandex.ru/cloud/641813ff73cee70b89478991/) **to leave your feedback on the project**. Product Team really tries to make your educational experience better.
