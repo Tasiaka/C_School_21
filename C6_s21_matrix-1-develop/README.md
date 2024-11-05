@@ -1,23 +1,5 @@
 # s21_matrix  
-
-> При старте работы над проектом просим тебя постараться хронометрировать время работы над проектом.
-> По завершении работы над проектом, пожалуйста, ответь на два вопроса [в этом опросе](https://forms.gle/vpUwLY2KyV1B1B3o9)
-
-
 Implementation of the matrix.h library.   
-
-The russian version of the task can be found in the repository.
-
-
-## Contents  
-
-1. [Chapter I](#chapter-i) \
-   1.1. [Introduction](#introduction)
-2. [Chapter II](#chapter-ii) \
-   2.1. [Information](#information)
-3. [Chapter III](#chapter-iii) \
-   3.1. [Part 1](#part-1-implementation-of-the-matrixh-library-functions)
-
 
 # Chapter I  
 
@@ -379,4 +361,3 @@ Implement basic operations with matrices (partially described [above](#matrix-op
 - Verifiable accuracy of the fractional part is up to 6 decimal places.
 
 
-💡 [Tap here](https://forms.yandex.ru/cloud/6418147073cee70b89478999/) **to leave your feedback on the project**. Product Team really tries to make your educational experience better.
