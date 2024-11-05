@@ -3,21 +3,6 @@ Summary: In this project, you need to implement the Tetris game in the C program
 
 # Contents
 
-- [BrickGameTetris](#brickgame-tetris)
-  - [Contents](#contents)
-  - [Introduction](#introduction)
-- [Chapter I](#chapter-i)
-  - [General Information](#general-information)
-    - [BrickGame](#brickgame)
-    - [History](#history)
-    - [Finite-state machines](#fine-states-machines)
-    - [Frogger](#frogger)
-    - [Tetris](#tetris)
-- [Chapter II](#chapter-ii)
-  - [Project Requirments](#project-requirements)
-    - [Part 1. Main task](#part-1-main-task)
-    - [Part 2. Bonus. Scoring and game record](#part-2-bonus-scoring-and-game-record)
-    - [Part 3. Bonus. Level mechanics](#part-3-bonus-level-mechanics)
 
 ## Introduction
 
@@ -159,4 +144,4 @@ Points will be accrued as follows:
 
 Add level mechanics to the game. Each time a player gains 600 points, the level increases by 1. Increasing the level boosts the speed at which the pieces move. The maximum number of levels is 10.
 
-💡 [Press here](https://forms.yandex.ru/cloud/65d4a02673cee73bdc52da80/)**, to give us feedback on this project**. It's anonymous and will help our team make your learning process better.
+
