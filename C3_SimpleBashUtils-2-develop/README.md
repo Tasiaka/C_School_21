@@ -2,21 +2,6 @@
 
 Development of Bash text utilities: cat, grep.
 
-The russian version of the task can be found in the repository.
-
-## Contents
-
-0. [Preamble](#preamble)
-1. [Chapter I](#chapter-i) \
-   1.1. [Introduction](#introduction)
-2. [Chapter II](#chapter-ii) \
-   2.1. [Information](#information)
-3. [Chapter III](#chapter-iii) \
-   3.1. [Part 1](#part-1-working-with-the-cat-utility)  
-   3.2. [Part 2](#part-2-working-with-grep-utility)  
-   3.3. [Part 3](#part-3-bonus-implementation-of-some-grep-utility-flags)  
-   3.4. [Part 4](#part-4-bonus-implementation-of-grep-utility-flag-combinations)
-
 
 ## Preamble
 
@@ -146,7 +131,5 @@ Bonus assignment for extra points. You need to develop the grep utility:
 - The resulting executable file must be placed in the directory src/grep/ and named s21_grep
 
 
-
-💡 [Tap here](https://forms.yandex.ru/cloud/64144c1bc09c020aafe7a4f3/) **to leave your feedback on the project**. Product Team really tries to make your educational experience better.
 
 
